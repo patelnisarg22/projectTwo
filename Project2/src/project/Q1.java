@@ -17,7 +17,7 @@ public class Q1 {
 				}
 				System.out.print("your sorted array is:");
 				for(int x=0;x<n;x++) {
-					System.out.print(arr[x]);
+					System.out.print(arr[x]+ ", ");
 					}
 			}
 }
